@@ -2,8 +2,14 @@
 public class BranchExample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		
 
+	}
+	
+	public static void testA() {
+		
+		System.out.println("This is an example");
 	}
 
 }
