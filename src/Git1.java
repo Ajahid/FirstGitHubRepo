@@ -6,4 +6,10 @@ public class Git1 {
 
 	}
 
+	public void methodA (){
+	
+		system.out.println ("This is chnages from upstream, upstream means in remote repository 
+		
+	}		
+	
 }
